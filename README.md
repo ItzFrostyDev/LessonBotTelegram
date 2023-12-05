@@ -1,1 +1,2 @@
-# LessonBotTelegram
+# Телеграм-бот з розкладом уроків
+![alt text](https://cdn.discordapp.com/attachments/1011010200557342730/1181665081013055588/2023-12-05_203214.png?ex=6581e25d&is=656f6d5d&hm=27d2df54f0056d070849670140c8b21c59b57e5732238161feb183e645fd54bb&)
